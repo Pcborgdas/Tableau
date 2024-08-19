@@ -1,2 +1,3 @@
 These are sample Tableau workbooks that I have created.
- final_project is the latest workbook. 
+sample_charts contains over 40 different chart types.
+final_project is similar to reports that I created at work.
